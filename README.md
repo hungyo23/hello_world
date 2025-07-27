@@ -1,3 +1,3 @@
 # hello_world
-# I'm fucking programmer.
+# I'm gonna be programmer.
 This repository is for practicing the GitHub flow.
